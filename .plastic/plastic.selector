@@ -1,0 +1,4 @@
+repository "Word-it@Bri_Black@cloud"
+  path "/"
+    br "/main"
+    co "/main"
